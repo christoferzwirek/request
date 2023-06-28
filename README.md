@@ -1,2 +1,2 @@
 # request
-granie w szachy z botem na liches za pomocą 
+granie w szachy z botem na liches za pomocą pythona. Sprawdzanie swoijej histori gier,Rangingu.
